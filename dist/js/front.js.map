@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/js/front.js"],"names":["utils","console","log","window","addEventListener","event","say","document","querySelector","textContent"],"mappings":"OAAOA,UAAW,aAElBC,QAAQC,IAAI,mBAEZC,OAAOC,iBAAiB,mBAAoB,SAASC,GAEjDJ,QAAQC,IAAI,4BAEZF,MAAMM,IAAK,yBACXC,SAASC,cAAc,WAAWC,YAAc","file":"front.js","sourceRoot":"../../"}

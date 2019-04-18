@@ -1,0 +1,2 @@
+import utils from"./utils.js";console.log("front.js loaded"),window.addEventListener("DOMContentLoaded",function(t){console.log("DOMContentLoaded start!!"),utils.say("Hello, Static Import!"),document.querySelector("#output").textContent="DOM fully loaded and parsed!!"});
+//# sourceMappingURL=front.js.map
